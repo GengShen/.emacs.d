@@ -57,3 +57,16 @@ emacs 配置总结
       5. 加载全局变量init-customize
       5. (provide 'init)
 
+## 使用方法
+   
+   放入home，初始化emacs
+
+## 扩展方法
+
+   **->package name 
+   add to init.el : (require 'init-**)
+   add lisp/init-**.el
+   add to init-**.el:
+        (require-package '**)
+        ...
+        (provide 'init-**)
