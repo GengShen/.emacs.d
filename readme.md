@@ -63,10 +63,10 @@ emacs 配置总结
 
 ## 扩展方法
 
-   **->package name 
-   add to init.el : (require 'init-**)
-   add lisp/init-**.el
-   add to init-**.el:
-        (require-package '**)
+   xx -> package name 
+   add to init.el : (require 'init-xx)
+   add lisp/init-xx.el
+   add to init-xx.el:
+        (require-package 'xx)
         ...
-        (provide 'init-**)
+        (provide 'init-xx)
