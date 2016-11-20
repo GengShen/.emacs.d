@@ -3,8 +3,10 @@ emacs 配置总结
 
 
 ## help
-   GUN <https://www.gnu.org/software/emacs/manual/html_node/emacs/Init-Examples.html#Init-Examples>
-   设置参照 <https://www.zybuluo.com/qqiseeu/note/17692>
+    
+    - GUN <https://www.gnu.org/software/emacs/manual/html_node/emacs/Init-Examples.html#Init-Examples>
+    
+    - 设置参照 <https://www.zybuluo.com/qqiseeu/note/17692>
 
 ## emacs安装
 
