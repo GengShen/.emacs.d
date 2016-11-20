@@ -60,13 +60,13 @@ emacs 配置总结
 ## 使用方法
    
    放入home，初始化emacs
-
+   M-x elpy-config
 ## 扩展方法
 
-   xx -> package name 
-   add to init.el : (require 'init-xx)
-   add lisp/init-xx.el
-   add to init-xx.el:
+    xx -> package name 
+    add to init.el : (require 'init-xx)
+    add lisp/init-xx.el
+    add to init-xx.el:
         (require-package 'xx)
         ...
         (provide 'init-xx)
