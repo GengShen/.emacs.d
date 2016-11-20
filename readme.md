@@ -39,6 +39,7 @@ emacs 配置总结
    - gnu  <https://elpa.gnu.org/packages/>
    - marmalade <https://marmalade-repo.org/packages>
    - 库的本地化 <https://www.emacswiki.org/emacs/LocalElpaArchive>
+
 ## 依赖包
     1. color-theme-solarized
     2. better-defaults
@@ -46,6 +47,7 @@ emacs 配置总结
     4. window-numbering
     5. elpy,flycheck,py-autopep8
     6. markdown
+
 ## 初始化方法
    加载init
       1. 将本地lisp文件夹放入load-path
