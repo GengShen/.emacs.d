@@ -48,6 +48,9 @@ emacs 配置总结
     5. elpy,flycheck,py-autopep8
     6. markdown
 
+## 外部环境依赖
+    1. mit-scheme命令行软件
+
 ## 初始化方法
    加载init
       1. 将本地lisp文件夹放入load-path
@@ -61,6 +64,7 @@ emacs 配置总结
    
    放入home，初始化emacs
    M-x elpy-config
+   
 ## 扩展方法
 
     xx -> package name 
