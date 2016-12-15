@@ -7,3 +7,6 @@ places
 snippets
 elpa
 url
+.ipynb_checkpoints
+*.ipynb
+request
