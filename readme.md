@@ -35,7 +35,8 @@ emacs 配置总结
   - requre 从于同名的文件寻找provie 'xx, 可用于load文件 或  函数(不存在函数且不指定文件名下,load并执行对应el文件名)
 
 ## 依赖库
-   - melp <http://melpa.org/packages/>
+   - melpa <http://melpa.org/packages/>
+   - elpa_cn <...>
    - gnu  <https://elpa.gnu.org/packages/>
    - marmalade <https://marmalade-repo.org/packages>
    - 库的本地化 <https://www.emacswiki.org/emacs/LocalElpaArchive>
@@ -45,7 +46,7 @@ emacs 配置总结
     2. better-defaults
     //3. auto-complete
     4. window-numbering
-    5. elpy,flycheck,py-autopep8
+    5. elpy,flycheck,py-autopep8,ein
     6. markdown
 
 ## 外部环境依赖
