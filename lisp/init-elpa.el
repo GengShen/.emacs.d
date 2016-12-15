@@ -30,6 +30,8 @@
              `("melpa" . ,(add-address-prefix "melpa.org/packages/")))
 (add-to-list 'package-archives
              `("melpa-stable" . ,(add-address-prefix "stable.melpa.org/packages/")))
+(add-to-list 'package-archives
+             `("elpa-cn" . ,"http://elpa.emacs-china.org/gnu/"))
 
 
 ;; If gpg cannot be found, signature checking will fail, so we

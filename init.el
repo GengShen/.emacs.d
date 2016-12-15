@@ -12,6 +12,8 @@
 
 (require 'init-elpy)
 
+(require 'init-ein)
+
 (require 'init-flycheck)
 
 (require 'init-py-autopep8)
