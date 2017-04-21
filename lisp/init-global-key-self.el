@@ -1,7 +1,7 @@
 (define-skeleton insert-$
   "insert $"
-  nil
-  "[$][/$]"
+  "insert:"
+  "[$]"str"[/$]"
   )
 (global-set-key (kbd "C-d") 'insert-$)
 
