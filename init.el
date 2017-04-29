@@ -30,6 +30,11 @@
 (require 'init-scheme)
 
 (require 'init-global-key-self)
+
+;; (require 'init-auto-save)
+;; (auto-save-enable)
+;; (setq auto-save-slient t)
+
 (setq inhibit-startup-message t) ;; hide the startup message
 (global-linum-mode t) ;; enable line numbers globally
 (prefer-coding-system 'utf-8) ;;设置编码
